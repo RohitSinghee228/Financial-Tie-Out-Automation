@@ -1,8 +1,10 @@
 # Financial-Tie-Out-Automation
-Project To Automatically populate Excel sheet using Tesseract OCR and Contour Functions
+Project To Automatically populate Excel sheet using OCR and Computer Vision
 # Input Annotated Pdf File
 * Annotations done using Adobe Acrobat DC
-![Image](https://github.com/RohitSinghee228/Financial-Tie-Out-Automation/blob/main/Input%20_Image/5.png)
+<img src="https://github.com/RohitSinghee228/Financial-Tie-Out-Automation/blob/main/Input%20_Image/5.png" width="200" height="400" />
+
+![Image](https://github.com/RohitSinghee228/Financial-Tie-Out-Automation/blob/main/Input%20_Image/5.png | width=200)
 # Output Excel Sheet
 ![Output](https://github.com/RohitSinghee228/Financial-Tie-Out-Automation/blob/main/Output%20Excel%20Sheets/Output%20excel.png)
 * This tool uses Computer Vision to automate the whole process of Transferring Annotated Numerical Value or Text along with ttheir relevant annotations to corresponding excel sheet.
